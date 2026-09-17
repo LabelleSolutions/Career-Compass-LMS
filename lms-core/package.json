@@ -1,0 +1,10 @@
+{
+  "name": "career-compass-lms-core",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reusable Career Compass Junior LMS core services and integrations.",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4"
+  },
+  "engines": { "node": ">=20" }
+}
